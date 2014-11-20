@@ -17,5 +17,4 @@ $ python scan.py
 then put url.
 done !
 
-
 Okay thanks for using them ! Feel free to use . Do not change copyright, mastah !
