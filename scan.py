@@ -17,6 +17,7 @@ header 		: http://docs.python-requests.org/en/latest/
 string replace 	: http://www.tutorialspoint.com/python/string_replace.htm
 clear console 	: http://stackoverflow.com/questions/517970/how-to-clear-python-interpreter-console
 """
+
 import requests
 import socket
 import os
