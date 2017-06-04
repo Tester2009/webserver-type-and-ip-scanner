@@ -7,7 +7,7 @@ http://www.facebook.com/Tester2009
 https://github.com/alepcat1710
 http://www.twitter.com/mambj2009
 http://kamisukagodam.blogspot.com
-muhammadaliffmuazzam@gmail.com || sulakecorporation1232@gmail.com
+muhammadaliffmuazzam@gmail.com || tester2009.hakase@gmail.com
 - Tester2009 - Alpha Maurice Production -
 
 Feel free to use . Do not change copyright, mastah !
